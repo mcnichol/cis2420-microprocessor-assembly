@@ -3,7 +3,7 @@ plugins {
     id 'application'
 }
 
-group 'org.mcnichol'
+group 'org.mcnichol.cis2420.hw01'
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -13,7 +13,7 @@ repositories {
 apply plugin: "application"
 
 application {
-    mainClass = 'org.mcnichol.App'
+    mainClass = 'org.mcnichol.cis2420.hw01.App'
 }
 
 run {
