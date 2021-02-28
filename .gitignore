@@ -1,5 +1,17 @@
-.idea
-.gradle
-.DS_Store
-build
+
+# Project Specific Files
 submitted
+
+# OSX Specific Files
+.DS_Store
+
+# IDE Config Files
+.idea
+
+# Java Config/Build Files
+.gradle
+build
+
+
+# C++ Config/Build Files
+cmake-build-debug
