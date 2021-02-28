@@ -1,0 +1,3 @@
+/Users/compute/workspace/cis2420/homework01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/compute/workspace/cis2420/homework01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/compute/workspace/cis2420/homework01/cmake-build-debug/CMakeFiles/lab_02.dir
